@@ -1,4 +1,4 @@
-# HackerRankAlgorithm-
+# Hacker Rank Algorithm
 
 ## Problem
 
